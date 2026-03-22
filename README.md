@@ -37,8 +37,7 @@ To improve model performance and fix visual errors in the charts, I performed th
 
 ### English & Russian Definitions
 * **Model Evaluation:** The process of using different metrics to understand a machine learning model's performance.
-* **Model Evaluation (Оценка модели):** Процесс использования различных метрик для понимания эффективности модели машинного обучения.
 
 * **Linearity:** The assumption that the relationship between two variables can be explained with a straight line.
-* **Linearity (Линейность):** Предположение о том, что связь между двумя переменными можно объяснить с помощью прямой линии.
+
 
